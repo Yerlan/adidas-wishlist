@@ -1,0 +1,11 @@
+//Define our constant action types to work with in reducer
+
+// Search Layout
+export const LOAD_SEARCH_LAYOUT = 'LOAD_SEARCH_LAYOUT';
+
+// Products
+export const GET_PRODUCTS_SUCCESS = 'GET_PRODUCTS_SUCCESS';
+export const GET_WISHLIST_SUCCESS = 'GET_WISHLIST_SUCCESS';
+export const ADD_TO_WISHLIST_SUCCESS = 'ADD_TO_WISHLIST_SUCCESS';
+export const DELETE_FROM_WISHLIST_SUCCESS = 'DELETE_FROM_WISHLIST_SUCCESS';
+export const DELETE_FROM_WISHLIST_HIDE_SUCCESS = 'DELETE_FROM_WISHLIST_HIDE_SUCCESS';
