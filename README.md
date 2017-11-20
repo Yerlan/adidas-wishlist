@@ -4,6 +4,8 @@ Hello and thank you for giving an opportunity to build this SPA. It was both cha
 
 ----------
 
+![Screenshot](./public/img/screenshot.png)
+
 
 #### How to install
 
